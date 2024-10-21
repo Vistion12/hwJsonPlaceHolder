@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(144, 152, 136);
+}
+
+header ol{
+    margin: 0;
+}
+header ol{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+}
+
+body{
+    margin: 0;
+}
+
+main{
+    padding: 0;
+}
+
+.like-button{
+    display: block;
+    margin: 15px;
+}
+
+.error{
+    color: red;
+}
+
+button{
+    margin: 7px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
